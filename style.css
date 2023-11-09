@@ -1,0 +1,20 @@
+body {
+  font-family: "Outfit", sans-serif;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#Tours {
+  background-color: #9cd6aa;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+#Gallery {
+  background-color: #9cd6aa;
+}
